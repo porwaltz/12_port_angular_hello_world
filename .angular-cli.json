@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "root": "src",
+      "root": "docs",
       "outDir": "dist",
       "assets": ["assets", "favicon.ico"],
       "index": "index.html",
